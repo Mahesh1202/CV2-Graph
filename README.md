@@ -3,21 +3,21 @@
 This project is a built with Flask, Pandas, and Plotly. It reads data from a CSV file and presents it in the form of interactive graphs and charts.
 
 
-3. Create and activate a virtual environment (optional but recommended):
+1. Create and activate a virtual environment (optional but recommended):
 
     python3 -m venv venv
     source venv/bin/activate # For Linux/Mac
     venv\Scripts\activate # For Windows
 
-4. Install the required dependencies:
+2. Install the required dependencies:
 
     pip install -r requirements.txt
 
-5. Run the Flask application:
+3. Run the Flask application:
 
     python app.py
 
-6. Open your web browser and visit `http://localhost:5000` to view the data visualization dashboard.
+4. Open your web browser and visit `http://localhost:5000` to view the data visualization dashboard.
 
 
 ## Usage
