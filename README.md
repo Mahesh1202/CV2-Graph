@@ -2,17 +2,6 @@
 
 This project is a built with Flask, Pandas, and Plotly. It reads data from a CSV file and presents it in the form of interactive graphs and charts.
 
-## Installation
-
-1. Clone the repository:
-
-    git clone https://github.com/J0hnMilt0n-png/CSV_2_GRAPH.git
-
-
-2. Navigate to the project directory:
-
-    cd CSV_2_GRAPH
-
 
 3. Create and activate a virtual environment (optional but recommended):
 
